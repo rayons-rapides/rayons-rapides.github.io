@@ -1,7 +1,7 @@
 body{
 	color: #F7F6CF;
 	font-family: Georgia, serif;
-	background-color: #212E53;
+	background-color: #000000;
 	margin-top: 10px; 
     margin-right: 40px; 
     margin-bottom: 30px; 
@@ -9,17 +9,17 @@ body{
 }
 
 h1{
-	color: #F4CFDF;
+	color: #FD2F34;
 }
 
 h2{
-	color: #F4CFDF;
+	color: #FF7421;
 }
 
 h3{
-	color: #4AA3A2;
+	color: #F4D9A3;
 }
 
 a{
-	color:#B6D8F2;
+	color:#FFFFFF;
 }
